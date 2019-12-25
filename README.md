@@ -1,18 +1,18 @@
 # Deeplearning-Face-Generation
 The project is about [Generative Adversarial Networks(GANs) paper](https://arxiv.org/abs/1406.2661) to generate new images of faces. I utitlized the [CelebFaces Attributes Dataset(CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train the model. CelebA is a large-scale face attributes dataset with more than 200K celebrity images, each with 40 attribute annotations. The images in this dataset cover large pose variations and background clutter. 
 
-![Sample Images.png](src/Sample Images.png)
+![SampleImages](src/SampleImages.png)
 
 ## DCGANs 
 
 ### architecture
-![Model Architecture.png](src/Model Architecture.png)
+![ModelArchitecture](src/ModelArchitecture.png)
 
 
 ## Generator samples from training
 View samples of images from the generator.Gradually,the Generator learned to create new images.
 
-![Samples Generator.png](src/Sample Generation.gif)
+![SamplesGenerator](src/SampleGeneration.gif)
 
 
 ## More resources
